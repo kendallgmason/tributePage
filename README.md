@@ -1,1 +1,1 @@
-# my-new-repo-
+# School of Code Tribute Page. 
